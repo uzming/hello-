@@ -8,6 +8,6 @@ int main(){
         i++;
         i= 2 * i;
     }
-    printf("第一天摘了%d个桃子", i);
+    printf("The monkey picked %d peaches.", i);
 
 }
